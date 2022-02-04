@@ -1,0 +1,7 @@
+CREATE DATABASE MoviesDetails;
+CREATE TABLE movies (movie VARCHAR(20));
+Actorname VARCHAR(20),DirectorVARCHAR(20));
+INSERT INTO movies (moviename,Actorname,Director)
+VALUES(“KGF”,”Yash”,”Neel”);
+INSERT INTO movies(moviename,Actorname,Director)
+VALUES(“GGVV”,”Rishabhs Shetty”,”Rishabh Shetty”);
